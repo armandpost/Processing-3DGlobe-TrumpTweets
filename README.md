@@ -13,4 +13,4 @@ Another theme that was being explored was to somehow integrate tweets from Donal
 Some interaction was built in by obtaining a csv of tweets from http://www.trumptwitterarchive.com/archive.
 Press T to make the Donald Trump twitter bird tweet.  X, Y, or Z resumes the earth's rotation.
 
-Disclaimer:  I'm not trying to make any political statement with the Trump tweets.  At the time I wrote this code, I found it bizarre that a U.S president was tweeting so actively and the media was covering it voraciously.
+Disclaimer:  I'm not trying to make any political statement with the Trump tweets.  At the time I wrote this code, I found it bizarre that a U.S president was tweeting so actively and the media was covering it so voraciously.
