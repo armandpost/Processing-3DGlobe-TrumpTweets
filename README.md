@@ -1,6 +1,10 @@
 # Processing-3DGlobe-TrumpTweets
 This was my final project for a Data Visualization Class
  - Armand Post(https://github.com/armandpost)
+ 
+ A video of the code in action is available on YouTube.
+ 
+ https://youtu.be/dBeEY_hGRTg
 
 Description:
 
